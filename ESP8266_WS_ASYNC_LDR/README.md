@@ -1,4 +1,6 @@
-# Instrucciones
+# ESP8266 + LDR + Chart
+
+## Instrucciones https://www.youtube.com/watch?v=oGukObqHNLU
 
 ## Resultado:
 
